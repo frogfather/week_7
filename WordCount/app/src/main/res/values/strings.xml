@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StringThing</string>
+    <string name="cc_app_name">String Thing</string>
+    <string name="result_activity">Answer Thing</string>
+    <string name="result_activity_title">Analysis:</string>
+    <string name="input">Enter a string to analyse</string>
+    <string name="analyse">Analyse</string>
+</resources>
