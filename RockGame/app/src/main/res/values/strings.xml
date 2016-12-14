@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RockGame</string>
+    <string name="cc_app_name">CodeClan Rock Game</string>
+    <string name="game_activity_title">Rock Paper Scissors</string>
+    <string name="new_game">New Game</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="play">Play</string>
+
+
+
+</resources>

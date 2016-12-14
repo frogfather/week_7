@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <Button
+            android:id="@+id/rock_button"
+            android:text="@string/rock"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#6565B9"
+            android:textColor="#cfcfff" />
+        <Button
+            android:id="@+id/paper_button"
+            android:text="@string/paper"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#6565B9"
+            android:textColor="#cfcfff" />
+        <Button
+            android:id="@+id/scissors_button"
+            android:text="@string/scissors"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#6565B9"
+            android:textColor="#cfcfff" />
+
+        <TextView
+            android:id="@+id/result_text"
+            android:layout_marginTop="125dp"
+            android:layout_marginLeft="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#7f7f9f"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+
